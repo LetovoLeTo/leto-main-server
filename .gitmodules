@@ -1,0 +1,6 @@
+[submodule "leto-resources"]
+	path = leto-resources
+	url = https://github.com/LetovoLeTo/leto-resources.git
+[submodule "leto-main-page"]
+	path = leto-main-page
+	url = https://github.com/LetovoLeTo/leto-main-page.git

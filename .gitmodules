@@ -4,3 +4,6 @@
 [submodule "leto-main-page"]
 	path = leto-main-page
 	url = https://github.com/LetovoLeTo/leto-main-page.git
+[submodule "leto-map"]
+	path = leto-map
+	url = https://github.com/LetovoLeTo/leto-map.git

@@ -7,3 +7,6 @@
 [submodule "leto-map"]
 	path = leto-map
 	url = https://github.com/LetovoLeTo/leto-map.git
+[submodule "leto-sites"]
+	path = leto-sites
+	url = https://github.com/LetovoLeTo/leto-sites.git

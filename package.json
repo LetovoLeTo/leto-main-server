@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install-recursively": "for d in leto-*/ ; npm i --prefix $d ; done"
+    "install-recursively": "for d in leto-*/ ; do npm i --prefix $d ; done"
   },
   "repository": {
     "type": "git",

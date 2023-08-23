@@ -10,3 +10,6 @@
 [submodule "leto-sites"]
 	path = leto-sites
 	url = https://github.com/LetovoLeTo/leto-sites.git
+[submodule "leto-homework"]
+	path = leto-homework
+	url = https://github.com/LetovoLeTo/leto-homework.git

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "install": "for d in leto-*/ ; do npm i --prefix $d ; done"
+    "preinstall": "submodules-install"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/LetovoLeTo/leto-main-server#readme",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "submodules-install": "^1.0.2"
+  },
+  "submodules": [
+    "leto-*/"
+  ]
 }

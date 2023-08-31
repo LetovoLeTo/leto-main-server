@@ -13,6 +13,3 @@
 [submodule "leto-homework"]
 	path = leto-homework
 	url = https://github.com/LetovoLeTo/leto-homework.git
-[submodule "leto-timetables"]
-	path = leto-timetables
-	url = https://github.com/LetovoLeTo/leto-timetables.git

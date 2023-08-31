@@ -12,10 +12,10 @@ const port = 3000;
 
 app.use("/res", express.static(join(__dirname, "leto-resources")));
 
-app.use(appMain);
 app.use(appTimetables);
 app.use(appSites);
-app.use(appHomework);
 app.use(appMap);
+app.use(appMain);
+app.use(appHomework);
 
 app.listen(port);
